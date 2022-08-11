@@ -24,7 +24,6 @@ function createBoxes() {
 
   }
   boxCollection.append(...array);
-
 }
 
 destroyButton.addEventListener("click", destroyBoxes);
